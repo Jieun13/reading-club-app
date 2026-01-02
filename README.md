@@ -17,7 +17,10 @@
 
 이 프로젝트는 개인 프로젝트입니다.
 
-Springboot + React로 개발했던 웹 사이트 https://readingwithme.xyz 를 앱으로 만들었습니다. 
+Springboot + React로 개발했던 웹 사이트 https://readingwithme.xyz 를 앱으로 만들었습니다.
+
+- 책 검색 기능은 알라딘 API를 이용했습니다.
+- 백엔드 API는 기존에 개발했던 서버입니다. (https://github.com/Jieun13/reading-club-be)
 
 <br>
 
