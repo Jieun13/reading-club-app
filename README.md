@@ -15,11 +15,8 @@
 
 ### 프로젝트 설명
 
-이 프로젝트는 개인 프로젝트입니다. 
-
-- **Backend**: Java 17, Spring Boot 3.5.7, MySQL  
-- **Frontend**: Swift
-- **Deploy**: AWS EC2, RDS
+이 프로젝트는 개인 프로젝트입니다.
+Springboot + React로 개발했던 웹 사이트 https://readingwithme.xyz 를 앱으로 만들었습니다. 
 
 <br>
 
