@@ -50,7 +50,6 @@
 
 - 책에 대한 기록을 남길 수 있어요. 공개/비공개 전환이 가능하며 공개로 업로드한 게시글은 모두가 볼 수 있습니다. 댓글이나 대댓글을 달 수도 있어요.
 - 게시글을 보면서 마음에 드는 책은 바로 위시리스트에 추가할 수 있어요.
-- 
 
 <img width="7732" height="4546" alt="posts" src="https://github.com/user-attachments/assets/318b28f5-c4a9-4335-9100-6204d11df707" />
 <img width="7732" height="4546" alt="post" src="https://github.com/user-attachments/assets/ada69458-7bd4-4c6e-ae1c-587eebbdbb98" />
