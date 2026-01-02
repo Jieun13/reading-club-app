@@ -1,6 +1,6 @@
 ### 책을 사랑하는 사람들을 위한 서비스
 
-## 나의 독서 기록을 차곡차곡 쌓아보세요! 
+#### 독서 기록을 앱으로 편하게 남겨보세요!
 
 <img width="7732" height="4546" alt="main" src="https://github.com/user-attachments/assets/cf9144af-0da6-47f8-b218-0d47165a015b" />
 
